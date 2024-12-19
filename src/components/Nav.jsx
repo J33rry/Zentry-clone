@@ -81,7 +81,7 @@ function Nav() {
                             onClick={toggleAudioIndicator}
                         >
                             <audio
-                                src="/audio/loop.mp3"
+                                src="audio/loop.mp3"
                                 ref={audioElementRef}
                                 className="hidden"
                                 loop
